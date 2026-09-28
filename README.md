@@ -7,8 +7,8 @@ Sản phẩm của **Dev Ngu** · Hỗ trợ: Telegram **[@spiderhub_boss](https
 
 | Hệ điều hành | Tải về |
 |---|---|
-| **Windows** 10/11 (64-bit) | [**SpiderHub-Windows.exe**](https://github.com/krisfromsg-afk/spider-hub-releases/releases/latest/download/SpiderHub-Windows.exe) — bản 1.0.27 |
-| **macOS** (Apple Silicon M1/M2/M3/M4) | [**SpiderHub-macOS.dmg**](https://github.com/krisfromsg-afk/spider-hub-releases/releases/latest/download/SpiderHub-macOS.dmg) — bản 1.0.27 |
+| **Windows** 10/11 (64-bit) | [**SpiderHub-Windows.exe**](https://github.com/krisfromsg-afk/spider-hub-releases/releases/download/v1.0.27/SpiderHub-Windows.exe) — bản 1.0.27 (bản 1.0.30 cho Windows sắp có) |
+| **macOS** (Apple Silicon M1/M2/M3/M4) | [**SpiderHub-macOS.dmg**](https://github.com/krisfromsg-afk/spider-hub-releases/releases/latest/download/SpiderHub-macOS.dmg) — bản 1.0.30 |
 
 Mọi phiên bản và ghi chú cập nhật: mục **[Releases](https://github.com/krisfromsg-afk/spider-hub-releases/releases)**.
 
